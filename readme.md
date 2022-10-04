@@ -14,4 +14,4 @@ Loaded '/lib/x86_64-linux-gnu/libgcc_s.so.1'. Symbols loaded.
 Loaded '/lib/x86_64-linux-gnu/libc.so.6'. Symbols loaded.
 
 
-I don't konw how to solve it,everyone 
+I don't konw how to solve it
